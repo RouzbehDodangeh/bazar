@@ -1,0 +1,20 @@
+{
+  "name": "bazar",
+  "version": "1.0.0",
+  "description": "this is an example bazar website responsive with flex",
+  "main": "index.js",
+  "scripts": {
+    "start":"parcel",
+    "build":"parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+    "type":"git",
+    "url":  "https://github.com/RouzbehDodangeh/bazar.git "
+  },
+  "author": "Rouzbeh Dodangeh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
